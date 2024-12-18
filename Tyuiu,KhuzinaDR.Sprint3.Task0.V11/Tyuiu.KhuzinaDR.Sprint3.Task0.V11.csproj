@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Tyuiu_KhuzinaDR.Sprint3.Task0.V11</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.KhuzinaDR.Sprint3.Task0.V11.Lib\Tyuiu.KhuzinaDR.Sprint3.Task0.V11.Lib.csproj" />
+  </ItemGroup>
+
+</Project>
